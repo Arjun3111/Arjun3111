@@ -1,4 +1,6 @@
-<img src='https://github.com/Arjun3111/Arjun3111/blob/master/Arjun%20Dev%20Singh.gif' height='400' width='400'>
+<div align="center">
+  <img src='https://github.com/Arjun3111/Arjun3111/blob/master/Arjun%20Dev%20Singh.gif' height='400' width='400'  style="vertical-align:middle;margin:0px 50px">
+</div>
 
 ## Hi there! <img src='https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif' width="25" height="25"> <br>
 **Glad to see you here** 🤩 <br>
