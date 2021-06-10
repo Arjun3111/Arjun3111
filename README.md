@@ -14,9 +14,6 @@ I'm currently a student pursuing my Bachelor of Technology in Information Techno
 **Programming Languages**<br>
 <img src='https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png' width="70" height="70" title="React">
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png' width="90" height="70" title="scikit learn">
-When I'm not developing and coding, you can find me watching Netflix, playing chess or listening to music.
 
 
-
-
-
+<br><br>When I'm not developing and coding, you can find me watching movies🎞️ , playing chess♟️ or listening to music🎵.
