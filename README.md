@@ -4,6 +4,7 @@ I am Arjun Dev Singh 🙋‍♂️ <br>
 I'm currently a student pursuing my Bachelor of Technology in Information Technology from Manipal Institute of Technology 🧑‍🎓. I'm passionate about areas of front end development. You can also find me interested in Machine learning 🤖.<br> 
 
 ### Skill Set 💪
+I have worked with the following technologies in the past.<br><br>
 **Programming Languages**<br>
 <img src='https://c0.klipartz.com/pngpicture/840/443/gratis-png-logo-html-5-desarrollo-web-html-css3-lienzo-elemento-diseno-web-w3c-html5-logo-thumbnail.png' width='70' height='70' title="HTML">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnw9UicModSiQg-85-pgsCHJlucUs_JKaEGrM0WoeItckmbJB2lr307-sH8pUQZ009sVU&usqp=CAU" width="70" height="70" title="CSS">
@@ -11,7 +12,7 @@ I'm currently a student pursuing my Bachelor of Technology in Information Techno
 <img src='https://raw.githubusercontent.com/github/explore/master/topics/python/python.png' width="70" height="70" title="Python">
 <img src='https://i.redd.it/31b2ii8hchi31.jpg' width="70" height="70" title="C++"> 
 
-**Programming Languages**<br>
+**Libraries**<br>
 <img src='https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png' width="70" height="70" title="React">
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png' width="90" height="70" title="scikit learn">
 
